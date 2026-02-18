@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Markus Harnúšek, a 16 year old aspiring software developer from Upper Austria and currently visiting the technical upper-level secondary school in Leonding. My interests in Fotography, Motorsports, Skiing, Hiking and most important of all, Software Devlopment.<br><br>
+Hi, I’m Markus Harnúšek, a 16 year old aspiring software developer from Upper Austria and currently visiting the technical upper-level secondary school in Leonding. My interests in Photography, Motorsports, Skiing, Hiking and most important of all, Software Devlopment.<br><br>
 
 
 ## Socials:
