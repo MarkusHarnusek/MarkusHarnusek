@@ -11,6 +11,5 @@ Hi, I’m Markus Harnúšek, a 16 year old aspiring software developer from Uppe
 ![](https://github-readme-stats.vercel.app/api?username=MarkusHarnusek&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MarkusHarnusek&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusHarnusek&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=markusharnusek)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
