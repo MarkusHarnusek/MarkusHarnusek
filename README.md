@@ -5,3 +5,5 @@
 </p>
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" /> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=markusharnusek&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" /> </p>
