@@ -8,6 +8,15 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=ffffff" alt="Top languages" />
 </p>
 
+<p align="center"> 
+  <a href="https://github.com/markusharnusek/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=REPO_1&theme=github_dark&hide_border=true" alt="REPO_1" /></a> 
+  <a href="https://github.com/markusharnusek/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=REPO_2&theme=github_dark&hide_border=true" alt="REPO_2" /></a> 
+</p> 
+<p align="center"> 
+  <a href="https://github.com/markusharnusek/REPO_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=REPO_3&theme=github_dark&hide_border=true" alt="REPO_3" /></a> 
+  <a href="https://github.com/markusharnusek/REPO_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=REPO_4&theme=github_dark&hide_border=true" alt="REPO_4" /></a> 
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&theme=github-compact&hide_border=true&bg_color=0d1117&color=fafafa&line=fafafa&point=fafafa" alt="Contribution graph" />
 </p>
