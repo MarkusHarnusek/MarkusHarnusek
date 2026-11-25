@@ -4,8 +4,10 @@
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,js,java,py,powershell,bash,html,css,dotnet,vue,vite,react,astro,spring,p5js,arduino,git,github,githubactions,sqlite,ps&theme=dark&perline=12" alt="My Skills" />
 </p>
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" /> </p>
+<p align="center"> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=ffffff" alt="Top languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&theme=github-compact&hide_border=true&bg_color=0d1117&color=fafafa&line=58a6ff&point=58a6ff" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&theme=github-compact&hide_border=true&bg_color=0d1117&color=fafafa&line=fafafa&point=fafafa" alt="Contribution graph" />
 </p>
