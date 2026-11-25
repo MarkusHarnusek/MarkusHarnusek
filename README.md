@@ -7,7 +7,7 @@ Hi, I’m Markus Harnúšek, a 17 year old aspiring software developer from Uppe
 
 # Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,ts,js,java,py,powershell,bash,html,css,dotnet,vue,pinia,vite,react,astro,spring,p5js,arduino,git,github,githubactions,sqlite,ps&theme=dark&perline=13)]
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,ts,js,java,py,powershell,bash,html,css,dotnet,vue,pinia,vite,react,astro,spring,p5js,arduino,git,github,githubactions,sqlite,ps&theme=dark&perline=13)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MarkusHarnusek&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
