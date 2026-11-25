@@ -12,12 +12,12 @@
   <a href="https://github.com/htl-leo-club-embedded-iot/GoalFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=htl-leo-club-embedded-iot&repo=GoalFinder&theme=github_dark&hide_border=true&title_color=fafafafa" alt="GoalFinder" /></a> 
 </p> 
 <p align="center"> 
-  <a href="https://github.com/markusharnusek/MarkDownDoc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=MarkDownDoc&theme=github_dark&hide_border=true" alt="MarkDownDoc" /></a> 
-  <a href="https://github.com/markusharnusek/MarkDownConverter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=MarkDownConverter&theme=github_dark&hide_border=true" alt="MarkDownConverter" /></a> 
+  <a href="https://github.com/markusharnusek/MarkDownDoc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=MarkDownDoc&theme=github_dark&hide_border=true&title_color=fafafafa" alt="MarkDownDoc" /></a> 
+  <a href="https://github.com/markusharnusek/MarkDownConverter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=MarkDownConverter&theme=github_dark&hide_border=true&title_color=fafafafa" alt="MarkDownConverter" /></a> 
 </p> 
 <p align="center"> 
-  <a href="https://github.com/markusharnusek/Palette-Picker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=Palette-Picker&theme=github_dark&hide_border=true" alt="Palette-Picker" /></a> 
-  <a href="https://github.com/markusharnusek/WinWid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=WinWid&theme=github_dark&hide_border=true" alt="WinWid" /></a> 
+  <a href="https://github.com/markusharnusek/Palette-Picker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=Palette-Picker&theme=github_dark&hide_border=true&title_color=fafafafa" alt="Palette-Picker" /></a> 
+  <a href="https://github.com/markusharnusek/WinWid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=WinWid&theme=github_dark&hide_border=true&title_color=fafafafa" alt="WinWid" /></a> 
 </p>
 
 <p align="center">
