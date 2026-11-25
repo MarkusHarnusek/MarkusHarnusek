@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/markusharnusek/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=htl-leo-club-embedded-iot&repo=GoalFinder&theme=github_dark&hide_border=true&title_color=fafafafa" alt="REPO_1" /></a> 
+  <a href="https://github.com/htl-leo-club-embedded-iot/GoalFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=htl-leo-club-embedded-iot&repo=GoalFinder&theme=github_dark&hide_border=true&title_color=fafafafa" alt="GoalFinder" /></a> 
 </p> 
 <p align="center"> 
   <a href="https://github.com/markusharnusek/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=REPO_1&theme=github_dark&hide_border=true" alt="REPO_1" /></a> 
