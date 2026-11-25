@@ -1,6 +1,7 @@
 # About Me:
 Hi, I’m Markus Harnúšek, a 17 year old aspiring software developer from Upper Austria and currently visiting the technical upper-level secondary school in Leonding. My interests in Photography, Motorsports, Skiing, Hiking and most important of all, Software Devlopment.<br><br>
 
+<h1 align="center">Hi, I'm Markus 👋</h1> <p align="center"> <a href="https://github.com/markusharnusek"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+%2B+embedded+developer;C%23+%7C+TypeScript+%7C+C%2B%2B;I+build+things+with+ESP32+and+Vue;Check+out+my+portfolio+below+%E2%AC%87" alt="Typing intro" /> </a> </p> <p align="center"> <a href="https://markusharnusek.github.io"><img src="https://img.shields.io/badge/Portfolio-markusharnusek.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a> </p>
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/markus_harnusek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.harnusek@students.htl-leonding.ac.at) 
