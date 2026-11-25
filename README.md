@@ -6,4 +6,6 @@
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" /> </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution graph" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=58a6ff" alt="Contribution graph" />
+</p>
