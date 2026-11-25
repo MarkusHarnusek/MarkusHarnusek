@@ -5,9 +5,12 @@
 </p>
 
 <p align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=ffffff" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=fafafafa" alt="Top languages" />
 </p>
 
+<p align="center"> 
+  <a href="https://github.com/markusharnusek/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=htl-leo-club-embedded-iot&repo=GoalFinder&theme=github_dark&hide_border=true&title_color=fafafafa" alt="REPO_1" /></a> 
+</p> 
 <p align="center"> 
   <a href="https://github.com/markusharnusek/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=REPO_1&theme=github_dark&hide_border=true" alt="REPO_1" /></a> 
   <a href="https://github.com/markusharnusek/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=REPO_2&theme=github_dark&hide_border=true" alt="REPO_2" /></a> 
