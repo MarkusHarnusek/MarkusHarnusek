@@ -6,6 +6,7 @@
   </a>
 </p>
 
+<p><img src="assets/about.svg" width="100%" alt="About" /></p>
 
 <p>I'm a software engineering student at HTL Leonding, building embedded systems and desktop software. I've been programming since I was seven, starting with Scratch at CoderDojo Linz and working my way to TypeScript, Arduinos and ESP32s.</p>
 
