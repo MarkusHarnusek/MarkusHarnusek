@@ -16,25 +16,6 @@
 
 <p>Today I run the school's Embedded Systems Club, where I want to help others discover the same passion and bring people together around new projects. In August 2026 I interned at BMD, working on an automated project scheduling tool.</p>
 
-<table align="center">
-  <tr>
-    <td><sub><code>STUDYING</code></sub></td>
-    <td>3rd Grade Software Engineering at HTL Leonding</td>
-  </tr>
-  <tr>
-    <td><sub><code>WORKING ON</code></sub></td>
-    <td>GoalFinder and projects around the Embedded Systems Club</td>
-  </tr>
-  <tr>
-    <td><sub><code>EXPLORING</code></sub></td>
-    <td>Voice recognition on embedded systems</td>
-  </tr>
-  <tr>
-    <td><sub><code>OUTSIDE CODE</code></sub></td>
-    <td>Mountains, motorsports and a bit of photography along the way</td>
-  </tr>
-</table>
-
 <p><img src="assets/stack.svg" width="100%" alt="Stack" /></p>
 
 <p align="center">The languages, frameworks and tools I've worked with, from daily drivers to things I'm still exploring.</p>
