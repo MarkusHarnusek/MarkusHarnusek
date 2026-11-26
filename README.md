@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://markusharnusek.github.io"><img src="https://img.shields.io/badge/Portfolio-markusharnusek.github.io-7CC0F5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B0B0B" alt="Portfolio" /></a>
+  <a href="https://markusharnusek.github.io"><img src="https://img.shields.io/badge/Portfolio-markusharnusek.github.io-7CC0F5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
 </p>
 
 <p><img src="assets/about.svg" width="100%" alt="About" /></p>
