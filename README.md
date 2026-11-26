@@ -28,7 +28,7 @@
 
 <h3 align="center">GoalFinder: basketball for blind and visually impaired players</h3>
 
-<p align="center">An open-source device that mounts on a basketball hoop. It plays a sound so players can find the basket, and gives sound and light feedback on every hit and miss. Florian Hetzmann and I took it over at the end of 2025 to turn a working prototype into something a school can use every day.</p>
+<p align="center">An open-source device that mounts on a basketball hoop. It plays a sound so players can find the basket, and gives sound and light feedback on every hit and miss. Took the project over at the end of 2025 to turn a working prototype into something a school can use every day.</p>
 
 <p align="center">
   <a href="https://github.com/htl-leo-club-embedded-iot/GoalFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=htl-leo-club-embedded-iot&repo=GoalFinder&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="GoalFinder" /></a>
