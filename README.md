@@ -12,9 +12,7 @@
 
 <p><img src="assets/about.svg" width="100%" alt="About" /></p>
 
-<p><code>Embedded systems are predictable until you put them under real conditions. Then an ISR takes too long or a perfectly valid piece of code gets blamed for a hardware fault - and suddenly you're debugging two worlds at once.</code></p>
-
-<p>I'm a software engineering student at HTL Leonding, building embedded systems and desktop software. I've been programming since I was seven, starting with Scratch in a kids' workshop and working my way to TypeScript, Arduinos and ESP32s.</p>
+<p>I'm a software engineering student at HTL Leonding, building embedded systems and desktop software. I've been programming since I was seven, starting with Scratch at CoderDojo Linz and working my way to TypeScript, Arduinos and ESP32s.</p>
 
 <p>Today I run the school's Embedded Systems Club, where I want to help others discover the same passion and bring people together around new projects. In August 2026 I interned at BMD, working on an automated project scheduling tool.</p>
 
