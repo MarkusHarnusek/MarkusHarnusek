@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="56" viewBox="0 0 400 56" role="img" aria-label="Contact">
+  <rect width="400" height="56" rx="8" fill="#0d1117"/>
+  <rect x="24" y="27.5" width="64" height="1" fill="#262626"/>
+  <rect x="104" y="27" width="32" height="2" fill="#7cc0f5"/>
+  <text x="200.8" y="35" text-anchor="middle" font-family="'Spline Sans Mono', ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="20" font-weight="500" letter-spacing="1.6" fill="#e6e6e6">Contact</text>
+  <rect x="264" y="27" width="32" height="2" fill="#7cc0f5"/>
+  <rect x="312" y="27.5" width="64" height="1" fill="#262626"/>
+</svg>
