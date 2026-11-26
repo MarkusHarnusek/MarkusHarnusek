@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="56" viewBox="0 0 830 56" role="img" aria-label="Activity">
-  <rect width="830" height="56" rx="8" fill="#0d1117"/>
+  <rect width="830" height="56" rx="8" fill="#0d1117" />
   <rect x="24" y="27" width="32" height="2" fill="#7cc0f5"/>
-  <text x="72" y="35" font-family="'Spline Sans Mono', ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="20" font-weight="500" letter-spacing="1.6" fill="#e6e6e6">ACTIVITY</text>
+  <text x="72" y="35" font-family="'Spline Sans Mono', ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="20" font-weight="500" letter-spacing="1.6" fill="#e6e6e6">Activity</text>
   <rect x="205" y="27.5" width="601" height="1" fill="#262626"/>
 </svg>
