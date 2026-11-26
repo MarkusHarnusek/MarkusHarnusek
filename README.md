@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://markusharnusek.github.io"><img src="https://img.shields.io/badge/Portfolio-markusharnusek.github.io-7CC0F5?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4" alt="Top languages" />
 </p>
 
 <p><img src="assets/about.svg" width="100%" alt="About" /></p>
