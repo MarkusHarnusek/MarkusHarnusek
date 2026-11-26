@@ -8,11 +8,11 @@
 
 <p><img src="assets/about.svg" width="100%" alt="About" /></p>
 
-<p>I'm a software engineering student at HTL Leonding, building embedded systems and desktop software. I've been programming since I was seven, starting with Scratch at CoderDojo Linz and working my way to TypeScript, Arduinos and ESP32s.</p>
+<p align="center">I'm a software engineering student at HTL Leonding, building embedded systems and desktop software. I've been programming since I was seven, starting with Scratch at CoderDojo Linz and working my way to TypeScript, Arduinos and ESP32s.</p>
 
 <p>Today I run the school's Embedded Systems Club, where I want to help others discover the same passion and bring people together around new projects. In August 2026 I interned at BMD, working on an automated project scheduling tool.</p>
 
-<p><img src="assets/stack.svg" width="100%" alt="Stack" /></p>
+<p align="center"><img src="assets/stack.svg" width="100%" alt="Stack" /></p>
 
 <p align="center">The languages, frameworks and tools I've worked with, from daily drivers to things I'm still exploring.</p>
 
