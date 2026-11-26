@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4" alt="Top languages" />
-</p>
-
 <p><img src="assets/about.svg" width="100%" alt="About" /></p>
 
 <p>I'm a software engineering student at HTL Leonding, building embedded systems and desktop software. I've been programming since I was seven, starting with Scratch at CoderDojo Linz and working my way to TypeScript, Arduinos and ESP32s.</p>
@@ -25,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&hide_border=true&bg_color=0b0b0b&title_color=e6e6e6&text_color=c4c4c4" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markusharnusek&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4" alt="Top languages" />
 </p>
 
 <p><img src="assets/projects.svg" width="100%" alt="Projects" /></p>
@@ -35,7 +31,7 @@
 <p align="center">An open-source device that mounts on a basketball hoop. It plays a sound so players can find the basket, and gives sound and light feedback on every hit and miss. Florian Hetzmann and I took it over at the end of 2025 to turn a working prototype into something a school can use every day.</p>
 
 <p align="center">
-  <a href="https://github.com/htl-leo-club-embedded-iot/GoalFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=htl-leo-club-embedded-iot&repo=GoalFinder&hide_border=true&bg_color=0b0b0b&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="GoalFinder" /></a>
+  <a href="https://github.com/htl-leo-club-embedded-iot/GoalFinder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=htl-leo-club-embedded-iot&repo=GoalFinder&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="GoalFinder" /></a>
 </p>
 
 <p align="center">
@@ -46,20 +42,21 @@
 <p align="center">A selection of my smaller projects: web tools and C# desktop utilities.</p>
 
 <p align="center">
-  <a href="https://github.com/markusharnusek/MarkDownDoc"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=MarkDownDoc&hide_border=true&bg_color=0b0b0b&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="MarkDownDoc" /></a>
-  <a href="https://github.com/markusharnusek/MarkDownConverter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=MarkDownConverter&hide_border=true&bg_color=0b0b0b&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="MarkDownConverter" /></a>
+  <a href="https://github.com/markusharnusek/MarkDownDoc"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=MarkDownDoc&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="MarkDownDoc" /></a>
+  <a href="https://github.com/markusharnusek/MarkDownConverter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=MarkDownConverter&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="MarkDownConverter" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/markusharnusek/Palette-Picker"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=Palette-Picker&hide_border=true&bg_color=0b0b0b&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="Palette-Picker" /></a>
-  <a href="https://github.com/markusharnusek/WinWid"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=WinWid&hide_border=true&bg_color=0b0b0b&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="WinWid" /></a>
+  <a href="https://github.com/markusharnusek/Palette-Picker"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=Palette-Picker&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="Palette-Picker" /></a>
+  <a href="https://github.com/markusharnusek/WinWid"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=markusharnusek&repo=WinWid&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c4c4c4&icon_color=7cc0f5" alt="WinWid" /></a>
 </p>
 
 <p><img src="assets/activity.svg" width="100%" alt="Activity" /></p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&hide_border=true&bg_color=0b0b0b&color=c4c4c4&title_color=e6e6e6&line=e6e6e6&point=e6e6e6" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&hide_border=true&bg_color=0d1117&color=c4c4c4&title_color=e6e6e6&line=e6e6e6&point=e6e6e6" alt="Contribution graph" />
 </p>
+
 
 <p><img src="assets/contact.svg" width="100%" alt="Contact" /></p>
 
