@@ -79,7 +79,7 @@
 <p><img src="assets/activity.svg" width="100%" alt="Activity" /></p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&hide_border=true&bg_color=0b0b0b&color=c4c4c4&title_color=e6e6e6&line=7cc0f5&point=e6e6e6" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=markusharnusek&hide_border=true&bg_color=0b0b0b&color=c4c4c4&title_color=e6e6e6&line=e6e6e6&point=e6e6e6" alt="Contribution graph" />
 </p>
 
 <p><img src="assets/contact.svg" width="100%" alt="Contact" /></p>
