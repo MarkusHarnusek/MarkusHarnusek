@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://markusharnusek.github.io"><img src="https://img.shields.io/badge/Portfolio-markusharnusek.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a> 
+</p>
+
 <p><picture><source media="(max-width: 600px)" srcset="assets/about-small.svg" /><img src="assets/about.svg" width="100%" alt="About" /></picture></p>
 
 <p align="center">I'm a software engineering student at HTL Leonding, building embedded systems and desktop software. I've been programming since I was seven, starting with Scratch at CoderDojo Linz and working my way to TypeScript, Arduinos and ESP32s.</p>
