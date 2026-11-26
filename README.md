@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Markus Harnúšek</h1>
+
 <p align="center">
   <a href="https://github.com/markusharnusek">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7CC0F5&center=true&vCenter=true&width=600&lines=software+engineering+student;C%23+%7C+C%2B%2B+%7C+TypeScript;I+build+software+and+embedded+systems;Visit+my+portfolio+below" alt="Typing intro" />
